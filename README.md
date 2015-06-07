@@ -24,7 +24,7 @@ License
 GPL, because is a modification of [Minty](http://cinnamon-spices.linuxmint.com/themes/view/25) theme
  
 
-Page in Cinnamon Spices
+Page in Cinnamon Spices and images
 -------
 http://cinnamon-spices.linuxmint.com/themes/view/407
 
@@ -33,8 +33,8 @@ You can see images of the theme going to the [preview folder](https://github.com
 Changelog
 -------
 
-0.2.1 07-06-15 Move code to Github and added a license. No changes in theme.
+**0.2.1** *07-06-15* Move code to Github and added a license. No changes in theme.
 
-0.2   08-12-14 Changed gradient while hover an icon in bar
+**0.2**   *08-12-14* Changed gradient while hover an icon in bar
 
-0.1   29-11-14 Theme Created
+**0.1**   *29-11-14* Theme Created
